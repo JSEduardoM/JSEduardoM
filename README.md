@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Actualmente estudio en la **Universidad Nacional del Altiplano**.
-- 🌱 Apasionado por el **Frontend** y en constante aprendizaje en **JavaScript, React, Python, R y C++**.
+- 🌱 Apasionado por el **Frontend** y en constante aprendizaje en **JavaScript, Typescript React, Python, R y C++**.
 - 💼 Buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
 - ⚡ Me gusta resolver problemas con lógica, crear interfaces atractivas y seguir mejorando cada día.
 - 📧 Puedes escribirme a <a href="mailto:julio20edu@gmail.com">julio20edu@gmail.com</a>.
